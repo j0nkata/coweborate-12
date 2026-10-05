@@ -1,0 +1,372 @@
+.section {
+  position: relative;
+  z-index: 4;
+  background: var(--ink);
+  color: var(--paper);
+  padding-block: clamp(80px, 7vw, 128px) clamp(96px, 9vw, 144px);
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  column-gap: clamp(16px, 1.25vw, 24px);
+  align-items: start;
+}
+
+.intro {
+  grid-column: 1 / 6;
+  min-width: 0;
+}
+
+.title {
+  margin: 0;
+  font-size: clamp(46px, 4.4vw, 80px);
+  font-weight: 500;
+  letter-spacing: -0.055em;
+  line-height: 0.96;
+}
+
+.lineMask {
+  display: block;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.lineMask > span {
+  display: block;
+  width: fit-content;
+}
+
+.blueLine {
+  color: var(--accent);
+}
+
+.support {
+  max-width: 31ch;
+  margin: 40px 0 0;
+  color: color-mix(in srgb, var(--paper) 66%, transparent);
+  font-size: clamp(16px, 1.15vw, 19px);
+  line-height: 1.45;
+}
+
+.inquiry {
+  grid-column: 7 / 13;
+  min-width: 0;
+}
+
+.form {
+  display: grid;
+  gap: 32px;
+}
+
+.group {
+  position: relative;
+  min-width: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.group legend,
+.field > label {
+  display: block;
+  width: 100%;
+  margin: 0 0 16px;
+  padding: 0;
+  color: var(--paper);
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.07em;
+  line-height: 1.2;
+}
+
+.group legend span,
+.field > label span {
+  color: var(--accent);
+}
+
+.identity {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px;
+}
+
+.field {
+  position: relative;
+  min-width: 0;
+}
+
+.field input,
+.field textarea {
+  display: block;
+  width: 100%;
+  min-width: 0;
+  padding: 0 0 12px;
+  border: 0;
+  border-bottom: 1px solid var(--line-dark);
+  border-radius: 0;
+  outline: 0;
+  background: transparent;
+  color: var(--paper);
+  font: inherit;
+  font-size: 16px;
+  line-height: 1.4;
+  transition: border-color 200ms ease;
+}
+
+.field input {
+  height: 46px;
+}
+
+.field textarea {
+  min-height: 132px;
+  resize: vertical;
+}
+
+.field input::placeholder,
+.field textarea::placeholder {
+  color: color-mix(in srgb, var(--paper) 50%, transparent);
+  opacity: 1;
+}
+
+.field input:hover,
+.field textarea:hover {
+  border-color: color-mix(in srgb, var(--paper) 66%, transparent);
+}
+
+.field input:focus-visible,
+.field textarea:focus-visible {
+  border-color: var(--paper);
+  outline: 2px solid var(--paper);
+  outline-offset: 4px;
+}
+
+.field input[aria-invalid="true"],
+.field textarea[aria-invalid="true"] {
+  border-color: var(--paper);
+}
+
+.serviceChoices,
+.startChoices {
+  display: grid;
+  gap: 8px;
+}
+
+.serviceChoices {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.startChoices {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.choice {
+  position: relative;
+  display: flex;
+  min-width: 0;
+  min-height: 48px;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 10px 12px;
+  border: 1px solid var(--line-dark);
+  border-radius: 0;
+  color: color-mix(in srgb, var(--paper) 76%, transparent);
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.025em;
+  line-height: 1.2;
+  transition: border-color 200ms ease, background-color 200ms ease, color 200ms ease;
+}
+
+.choice input {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+}
+
+.choiceMark {
+  flex: none;
+  min-width: 12px;
+  text-align: right;
+}
+
+.choice:has(input:checked) {
+  border-color: var(--accent);
+  background: var(--accent);
+  color: var(--paper);
+}
+
+.choice:has(input:checked) .choiceMark::before {
+  content: "✓";
+}
+
+.choice:has(input:focus-visible) {
+  outline: 2px solid var(--paper);
+  outline-offset: 3px;
+}
+
+@media (hover: hover) {
+  .choice:hover {
+    border-color: var(--paper);
+    color: var(--paper);
+  }
+}
+
+.wideChoice {
+  grid-column: 1 / -1;
+}
+
+.error {
+  position: absolute;
+  top: calc(100% + 5px);
+  left: 0;
+  display: block;
+  color: var(--paper);
+  font-size: 12px;
+  line-height: 1.35;
+}
+
+.submitError {
+  display: block;
+  color: var(--paper);
+  font-size: 12px;
+  line-height: 1.35;
+}
+
+.action {
+  margin-top: 8px;
+}
+
+.submit {
+  display: inline-flex;
+  width: fit-content;
+  max-width: 100%;
+  height: 52px;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  padding: 0 24px;
+  border: 0;
+  border-radius: 0;
+  background: var(--accent);
+  color: var(--paper);
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1;
+}
+
+.submit:focus-visible {
+  outline: 2px solid var(--paper);
+  outline-offset: 4px;
+}
+
+.submit:disabled {
+  cursor: wait;
+  opacity: 0.75;
+}
+
+.arrow {
+  flex: none;
+  font-size: 19px;
+  transition: transform 220ms ease;
+}
+
+@media (hover: hover) and (prefers-reduced-motion: no-preference) {
+  .submit:hover .arrow {
+    transform: translateX(5px);
+  }
+}
+
+.submitError {
+  max-width: 43ch;
+  margin-top: 16px;
+}
+
+.success h3 {
+  margin: 0;
+  font-size: clamp(32px, 3.3vw, 64px);
+  font-weight: 500;
+  letter-spacing: -0.04em;
+  line-height: 1;
+}
+
+.success p {
+  margin: 24px 0 0;
+  font-size: 16px;
+}
+
+@media (max-width: 1100px) and (min-width: 769px) {
+  .intro { grid-column: 1 / 7; }
+  .inquiry { grid-column: 8 / 13; }
+  .title { font-size: clamp(46px, 5vw, 58px); }
+  .serviceChoices { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+@media (max-width: 768px) {
+  .section {
+    padding-block: 72px 96px;
+  }
+
+  .layout {
+    display: block;
+    padding-inline: 16px;
+  }
+
+  .title {
+    font-size: clamp(42px, 10.8vw, 60px);
+  }
+
+  .support {
+    max-width: 34ch;
+    margin-top: 24px;
+    font-size: 16px;
+  }
+
+  .inquiry {
+    margin-top: 56px;
+  }
+
+  .form {
+    gap: 32px;
+  }
+
+  .identity {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+
+  .serviceChoices,
+  .startChoices {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .choice {
+    min-height: 52px;
+    padding-inline: 10px;
+    font-size: 11px;
+  }
+
+  .submit {
+    width: 100%;
+    height: 48px;
+    padding-inline: 20px;
+  }
+}
+
+@media (max-width: 360px) {
+  .title { font-size: 39px; }
+  .choice { font-size: 10px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .choice,
+  .field input,
+  .field textarea,
+  .arrow {
+    transition: none;
+  }
+}

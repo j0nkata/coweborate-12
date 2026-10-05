@@ -1,0 +1,5 @@
+2026/09/10-17:20:25.441 6a1c Creating DB C:\Users\aivan\coweborate-1\.edge-liquid-audit\Default\EdgeCoupons/coupons_data.db since it was missing.
+2026/09/10-17:20:25.455 6a1c Reusing MANIFEST C:\Users\aivan\coweborate-1\.edge-liquid-audit\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/09/10-17:20:25.934 6ce8 Level-0 table #5: started
+2026/09/10-17:20:25.941 6ce8 Level-0 table #5: 683273 bytes OK
+2026/09/10-17:20:25.944 6ce8 Delete type=0 #3

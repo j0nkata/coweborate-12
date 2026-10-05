@@ -1,0 +1,1288 @@
+{
+  "mode": "desktop",
+  "width": 1440,
+  "height": 900,
+  "ranges": [
+    {
+      "start": 5471.765625,
+      "end": 6175.765625
+    },
+    {
+      "start": 6175.765625,
+      "end": 6879.765625
+    }
+  ],
+  "reports": [
+    {
+      "index": 0,
+      "progress": 0.05,
+      "mode": "desktop",
+      "webgl": "true",
+      "overflow": 0,
+      "canvasCount": 1,
+      "canvas": {
+        "rect": {
+          "x": 502.328125,
+          "y": 0,
+          "width": 749.078125,
+          "height": 900,
+          "top": 0,
+          "right": 1251.40625,
+          "bottom": 900,
+          "left": 502.328125
+        },
+        "width": 749,
+        "height": 900
+      },
+      "stage": {
+        "x": 502.328125,
+        "y": 126,
+        "width": 749.078125,
+        "height": 468.171875,
+        "top": 126,
+        "right": 1251.40625,
+        "bottom": 594.171875,
+        "left": 502.328125
+      },
+      "active": [
+        0
+      ],
+      "items": [
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "deform": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        },
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "deform": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        },
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "deform": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        }
+      ]
+    },
+    {
+      "index": 0,
+      "progress": 0.3,
+      "mode": "desktop",
+      "webgl": "true",
+      "overflow": 0,
+      "canvasCount": 1,
+      "canvas": {
+        "rect": {
+          "x": 502.328125,
+          "y": 0,
+          "width": 749.078125,
+          "height": 900,
+          "top": 0,
+          "right": 1251.40625,
+          "bottom": 900,
+          "left": 502.328125
+        },
+        "width": 749,
+        "height": 900
+      },
+      "stage": {
+        "x": 502.328125,
+        "y": 126,
+        "width": 749.078125,
+        "height": 468.171875,
+        "top": 126,
+        "right": 1251.40625,
+        "bottom": 594.171875,
+        "left": 502.328125
+      },
+      "active": [
+        0
+      ],
+      "items": [
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": -125.106
+          },
+          "deform": {
+            "a": 0.996,
+            "b": 0.0104113,
+            "c": 0,
+            "d": 1.0275,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        },
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 371.215
+          },
+          "deform": {
+            "a": 0.992,
+            "b": -0.0207794,
+            "c": 0,
+            "d": 1.055,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        },
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "deform": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        }
+      ]
+    },
+    {
+      "index": 0,
+      "progress": 0.48,
+      "mode": "desktop",
+      "webgl": "true",
+      "overflow": 0,
+      "canvasCount": 1,
+      "canvas": {
+        "rect": {
+          "x": 502.328125,
+          "y": 0,
+          "width": 749.078125,
+          "height": 900,
+          "top": 0,
+          "right": 1251.40625,
+          "bottom": 900,
+          "left": 502.328125
+        },
+        "width": 749,
+        "height": 900
+      },
+      "stage": {
+        "x": 502.328125,
+        "y": 126,
+        "width": 749.078125,
+        "height": 468.171875,
+        "top": 126,
+        "right": 1251.40625,
+        "bottom": 594.171875,
+        "left": 502.328125
+      },
+      "active": [
+        0
+      ],
+      "items": [
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": -313.627
+          },
+          "deform": {
+            "a": 0.992,
+            "b": 0.0207794,
+            "c": 0,
+            "d": 1.055,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        },
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 237.358
+          },
+          "deform": {
+            "a": 0.9948,
+            "b": -0.01362,
+            "c": 0,
+            "d": 1.0359,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        },
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "deform": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        }
+      ]
+    },
+    {
+      "index": 0,
+      "progress": 0.65,
+      "mode": "desktop",
+      "webgl": "true",
+      "overflow": 0,
+      "canvasCount": 1,
+      "canvas": {
+        "rect": {
+          "x": 502.328125,
+          "y": 0,
+          "width": 749.078125,
+          "height": 900,
+          "top": 0,
+          "right": 1251.40625,
+          "bottom": 900,
+          "left": 502.328125
+        },
+        "width": 749,
+        "height": 900
+      },
+      "stage": {
+        "x": 502.328125,
+        "y": 126,
+        "width": 749.078125,
+        "height": 468.171875,
+        "top": 126,
+        "right": 1251.40625,
+        "bottom": 594.171875,
+        "left": 502.328125
+      },
+      "active": [
+        1
+      ],
+      "items": [
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": -490.272
+          },
+          "deform": {
+            "a": 0.992,
+            "b": 0.0207794,
+            "c": 0,
+            "d": 1.055,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        },
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 111.933
+          },
+          "deform": {
+            "a": 0.9974,
+            "b": -0.00686405,
+            "c": 0,
+            "d": 1.0181,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        },
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "deform": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        }
+      ]
+    },
+    {
+      "index": 0,
+      "progress": 0.95,
+      "mode": "desktop",
+      "webgl": "true",
+      "overflow": 0,
+      "canvasCount": 1,
+      "canvas": {
+        "rect": {
+          "x": 502.328125,
+          "y": 0,
+          "width": 749.078125,
+          "height": 900,
+          "top": 0,
+          "right": 1251.40625,
+          "bottom": 900,
+          "left": 502.328125
+        },
+        "width": 749,
+        "height": 900
+      },
+      "stage": {
+        "x": 502.328125,
+        "y": 126,
+        "width": 749.078125,
+        "height": 468.171875,
+        "top": 126,
+        "right": 1251.40625,
+        "bottom": 594.171875,
+        "left": 502.328125
+      },
+      "active": [
+        1
+      ],
+      "items": [
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "deform": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        },
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "deform": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        },
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "deform": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "progress": 0.05,
+      "mode": "desktop",
+      "webgl": "true",
+      "overflow": 0,
+      "canvasCount": 1,
+      "canvas": {
+        "rect": {
+          "x": 502.328125,
+          "y": 0,
+          "width": 749.078125,
+          "height": 900,
+          "top": 0,
+          "right": 1251.40625,
+          "bottom": 900,
+          "left": 502.328125
+        },
+        "width": 749,
+        "height": 900
+      },
+      "stage": {
+        "x": 502.328125,
+        "y": 126,
+        "width": 749.078125,
+        "height": 468.171875,
+        "top": 126,
+        "right": 1251.40625,
+        "bottom": 594.171875,
+        "left": 502.328125
+      },
+      "active": [
+        1
+      ],
+      "items": [
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "deform": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        },
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "deform": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        },
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "deform": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "progress": 0.3,
+      "mode": "desktop",
+      "webgl": "true",
+      "overflow": 0,
+      "canvasCount": 1,
+      "canvas": {
+        "rect": {
+          "x": 502.328125,
+          "y": 0,
+          "width": 749.078125,
+          "height": 900,
+          "top": 0,
+          "right": 1251.40625,
+          "bottom": 900,
+          "left": 502.328125
+        },
+        "width": 749,
+        "height": 900
+      },
+      "stage": {
+        "x": 502.328125,
+        "y": 126,
+        "width": 749.078125,
+        "height": 468.171875,
+        "top": 126,
+        "right": 1251.40625,
+        "bottom": 594.171875,
+        "left": 502.328125
+      },
+      "active": [
+        1
+      ],
+      "items": [
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "deform": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        },
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": -125.106
+          },
+          "deform": {
+            "a": 0.996,
+            "b": -0.0104113,
+            "c": 0,
+            "d": 1.0275,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        },
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 371.215
+          },
+          "deform": {
+            "a": 0.992,
+            "b": 0.0207794,
+            "c": 0,
+            "d": 1.055,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "progress": 0.48,
+      "mode": "desktop",
+      "webgl": "true",
+      "overflow": 0,
+      "canvasCount": 1,
+      "canvas": {
+        "rect": {
+          "x": 502.328125,
+          "y": 0,
+          "width": 749.078125,
+          "height": 900,
+          "top": 0,
+          "right": 1251.40625,
+          "bottom": 900,
+          "left": 502.328125
+        },
+        "width": 749,
+        "height": 900
+      },
+      "stage": {
+        "x": 502.328125,
+        "y": 126,
+        "width": 749.078125,
+        "height": 468.171875,
+        "top": 126,
+        "right": 1251.40625,
+        "bottom": 594.171875,
+        "left": 502.328125
+      },
+      "active": [
+        1
+      ],
+      "items": [
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "deform": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        },
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": -313.627
+          },
+          "deform": {
+            "a": 0.992,
+            "b": -0.0207794,
+            "c": 0,
+            "d": 1.055,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        },
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 237.358
+          },
+          "deform": {
+            "a": 0.9948,
+            "b": 0.01362,
+            "c": 0,
+            "d": 1.0359,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "progress": 0.65,
+      "mode": "desktop",
+      "webgl": "true",
+      "overflow": 0,
+      "canvasCount": 1,
+      "canvas": {
+        "rect": {
+          "x": 502.328125,
+          "y": 0,
+          "width": 749.078125,
+          "height": 900,
+          "top": 0,
+          "right": 1251.40625,
+          "bottom": 900,
+          "left": 502.328125
+        },
+        "width": 749,
+        "height": 900
+      },
+      "stage": {
+        "x": 502.328125,
+        "y": 126,
+        "width": 749.078125,
+        "height": 468.171875,
+        "top": 126,
+        "right": 1251.40625,
+        "bottom": 594.171875,
+        "left": 502.328125
+      },
+      "active": [
+        2
+      ],
+      "items": [
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "deform": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        },
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": -490.272
+          },
+          "deform": {
+            "a": 0.992,
+            "b": -0.0207794,
+            "c": 0,
+            "d": 1.055,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        },
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 111.933
+          },
+          "deform": {
+            "a": 0.9974,
+            "b": 0.00686405,
+            "c": 0,
+            "d": 1.0181,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "progress": 0.95,
+      "mode": "desktop",
+      "webgl": "true",
+      "overflow": 0,
+      "canvasCount": 1,
+      "canvas": {
+        "rect": {
+          "x": 502.328125,
+          "y": 0,
+          "width": 749.078125,
+          "height": 900,
+          "top": 0,
+          "right": 1251.40625,
+          "bottom": 900,
+          "left": 502.328125
+        },
+        "width": 749,
+        "height": 900
+      },
+      "stage": {
+        "x": 502.328125,
+        "y": 16.59375,
+        "width": 749.078125,
+        "height": 468.171875,
+        "top": 16.59375,
+        "right": 1251.40625,
+        "bottom": 484.765625,
+        "left": 502.328125
+      },
+      "active": [
+        2
+      ],
+      "items": [
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "deform": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        },
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "deform": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        },
+        {
+          "visual": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "deform": {
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "e": 0,
+            "f": 0
+          },
+          "revealOpacity": 0,
+          "revealVisibility": "hidden",
+          "imageReady": true
+        }
+      ]
+    }
+  ],
+  "frameStats": {
+    "median": 33.30000000000291,
+    "p95": 50
+  },
+  "mobile": {
+    "mode": "flow",
+    "overflow": 0,
+    "canvasCount": 0,
+    "canvas": null,
+    "stage": {
+      "x": 16,
+      "y": 4709.1875,
+      "width": 358,
+      "height": 1803.03125,
+      "top": 4709.1875,
+      "right": 374,
+      "bottom": 6512.21875,
+      "left": 16
+    },
+    "active": [
+      0
+    ],
+    "items": [
+      {
+        "visual": {
+          "a": 1,
+          "b": 0,
+          "c": 0,
+          "d": 1,
+          "e": 0,
+          "f": 0
+        },
+        "deform": {
+          "a": 1,
+          "b": 0,
+          "c": 0,
+          "d": 1,
+          "e": 0,
+          "f": 0
+        },
+        "revealOpacity": 1,
+        "revealVisibility": "visible",
+        "imageReady": true
+      },
+      {
+        "visual": {
+          "a": 1,
+          "b": 0,
+          "c": 0,
+          "d": 1,
+          "e": 0,
+          "f": 0
+        },
+        "deform": {
+          "a": 1,
+          "b": 0,
+          "c": 0,
+          "d": 1,
+          "e": 0,
+          "f": 0
+        },
+        "revealOpacity": 1,
+        "revealVisibility": "visible",
+        "imageReady": true
+      },
+      {
+        "visual": {
+          "a": 1,
+          "b": 0,
+          "c": 0,
+          "d": 1,
+          "e": 0,
+          "f": 0
+        },
+        "deform": {
+          "a": 1,
+          "b": 0,
+          "c": 0,
+          "d": 1,
+          "e": 0,
+          "f": 0
+        },
+        "revealOpacity": 1,
+        "revealVisibility": "visible",
+        "imageReady": true
+      }
+    ]
+  },
+  "resized": {
+    "mode": "desktop",
+    "webgl": "true",
+    "overflow": 0,
+    "canvasCount": 1,
+    "canvas": {
+      "rect": {
+        "x": 502.328125,
+        "y": 0,
+        "width": 749.078125,
+        "height": 900,
+        "top": 0,
+        "right": 1251.40625,
+        "bottom": 900,
+        "left": 502.328125
+      },
+      "width": 749,
+      "height": 900
+    },
+    "stage": {
+      "x": 502.328125,
+      "y": 5453.59375,
+      "width": 749.078125,
+      "height": 468.171875,
+      "top": 5453.59375,
+      "right": 1251.40625,
+      "bottom": 5921.765625,
+      "left": 502.328125
+    },
+    "active": [
+      0
+    ],
+    "items": [
+      {
+        "visual": {
+          "a": 1,
+          "b": 0,
+          "c": 0,
+          "d": 1,
+          "e": 0,
+          "f": 0
+        },
+        "deform": {
+          "a": 1,
+          "b": 0,
+          "c": 0,
+          "d": 1,
+          "e": 0,
+          "f": 0
+        },
+        "revealOpacity": 0,
+        "revealVisibility": "hidden",
+        "imageReady": true
+      },
+      {
+        "visual": {
+          "a": 1,
+          "b": 0,
+          "c": 0,
+          "d": 1,
+          "e": 0,
+          "f": 0
+        },
+        "deform": {
+          "a": 1,
+          "b": 0,
+          "c": 0,
+          "d": 1,
+          "e": 0,
+          "f": 0
+        },
+        "revealOpacity": 0,
+        "revealVisibility": "hidden",
+        "imageReady": true
+      },
+      {
+        "visual": {
+          "a": 1,
+          "b": 0,
+          "c": 0,
+          "d": 1,
+          "e": 0,
+          "f": 0
+        },
+        "deform": {
+          "a": 1,
+          "b": 0,
+          "c": 0,
+          "d": 1,
+          "e": 0,
+          "f": 0
+        },
+        "revealOpacity": 0,
+        "revealVisibility": "hidden",
+        "imageReady": true
+      }
+    ]
+  },
+  "reduced": {
+    "mode": "flow",
+    "overflow": 0,
+    "canvasCount": 0,
+    "canvas": null,
+    "stage": {
+      "x": 502.328125,
+      "y": 1853.59375,
+      "width": 749.078125,
+      "height": 3152,
+      "top": 1853.59375,
+      "right": 1251.40625,
+      "bottom": 5005.59375,
+      "left": 502.328125
+    },
+    "active": [
+      0
+    ],
+    "items": [
+      {
+        "visual": {
+          "a": 1,
+          "b": 0,
+          "c": 0,
+          "d": 1,
+          "e": 0,
+          "f": 0
+        },
+        "deform": {
+          "a": 1,
+          "b": 0,
+          "c": 0,
+          "d": 1,
+          "e": 0,
+          "f": 0
+        },
+        "revealOpacity": 1,
+        "revealVisibility": "visible",
+        "imageReady": true
+      },
+      {
+        "visual": {
+          "a": 1,
+          "b": 0,
+          "c": 0,
+          "d": 1,
+          "e": 0,
+          "f": 0
+        },
+        "deform": {
+          "a": 1,
+          "b": 0,
+          "c": 0,
+          "d": 1,
+          "e": 0,
+          "f": 0
+        },
+        "revealOpacity": 1,
+        "revealVisibility": "visible",
+        "imageReady": true
+      },
+      {
+        "visual": {
+          "a": 1,
+          "b": 0,
+          "c": 0,
+          "d": 1,
+          "e": 0,
+          "f": 0
+        },
+        "deform": {
+          "a": 1,
+          "b": 0,
+          "c": 0,
+          "d": 1,
+          "e": 0,
+          "f": 0
+        },
+        "revealOpacity": 1,
+        "revealVisibility": "visible",
+        "imageReady": true
+      }
+    ]
+  },
+  "issues": []
+}

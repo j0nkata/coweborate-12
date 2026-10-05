@@ -1,0 +1,243 @@
+.section {
+  --showcase-grid-columns: 12;
+  --showcase-grid-gap: clamp(16px, 1.25vw, 24px);
+  --showcase-grid-inset: var(--site-grid-axis);
+  --showcase-grid-line: rgba(20, 25, 35, 0.04);
+
+  position: relative;
+  isolation: isolate;
+  padding: clamp(72px, 8svh, 104px) var(--site-grid-axis)
+    clamp(64px, 7svh, 88px);
+  background: var(--paper);
+  color: var(--ink);
+}
+
+.section::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  inset: 0 var(--showcase-grid-inset);
+  background-image: linear-gradient(
+    to right,
+    var(--showcase-grid-line) 0 1px,
+    transparent 1px
+  );
+  background-size: calc(
+      (100% + var(--showcase-grid-gap)) / var(--showcase-grid-columns)
+    ) 100%;
+  background-repeat: repeat-x;
+  pointer-events: none;
+}
+
+.composition {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  gap: var(--space-4) clamp(16px, 1.25vw, 24px);
+  align-items: start;
+}
+
+.title,
+.meta,
+.media,
+.description,
+.cta {
+  min-width: 0;
+}
+
+.title {
+  position: relative;
+  z-index: 2;
+  top: var(--space-5);
+  grid-column: 1 / 7;
+  grid-row: 1;
+  justify-self: start;
+  margin: 0;
+  padding: var(--space-2) var(--space-4) var(--space-2) 0;
+  font-size: clamp(48px, 5.2vw, 96px);
+  font-weight: 600;
+  letter-spacing: -0.055em;
+  line-height: 0.88;
+  overflow-wrap: anywhere;
+}
+
+.meta {
+  position: relative;
+  z-index: 2;
+  left: 0;
+  grid-column: 1 / 4;
+  grid-row: 2;
+  justify-self: start;
+  max-width: 26ch;
+  margin: 0;
+  padding: var(--space-2) var(--space-3);
+  background: var(--paper);
+  color: var(--muted);
+  font-size: var(--type-label);
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  line-height: 1.45;
+  overflow-wrap: anywhere;
+}
+
+.media {
+  grid-column: 4 / 10;
+  grid-row: 2;
+  display: block;
+  width: 88%;
+  max-width: 45rem;
+  margin-top: calc(-1 * var(--space-4));
+  justify-self: center;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  box-shadow:
+    0 30px 70px rgba(20, 25, 35, 0.1),
+    0 8px 24px rgba(20, 25, 35, 0.07);
+}
+
+.description {
+  position: relative;
+  z-index: 2;
+  grid-column: 8 / -1;
+  grid-row: 3;
+  margin: -64px 0 0;
+  padding: var(--space-4) 0 0 var(--space-4);
+  font-size: var(--type-body-large);
+  font-weight: 400;
+  line-height: 1.45;
+  overflow-wrap: anywhere;
+}
+
+.textStack,
+.textBase {
+  display: block;
+}
+
+.textStack {
+  position: relative;
+}
+
+.textBase {
+  color: var(--ink);
+}
+
+.textImageLayer {
+  position: absolute;
+  inset: 0;
+  display: block;
+  color: var(--paper);
+  clip-path: inset(0 100% 0 0);
+  pointer-events: none;
+}
+
+.cta {
+  grid-column: 10 / -1;
+  grid-row: 4;
+  width: 100%;
+  margin-top: var(--space-4);
+}
+
+/* Keep separate grid items for the future project transition. */
+@media (min-width: 48.001rem) and (max-width: 59.999rem) {
+  .section {
+    --showcase-grid-columns: 8;
+  }
+
+  .composition {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+
+  .meta {
+    grid-column: 1 / 3;
+  }
+
+  .title {
+    top: var(--space-3);
+    grid-column: 1 / 6;
+  }
+
+  .media {
+    grid-column: 3 / 8;
+  }
+
+  .description {
+    grid-column: 5 / -1;
+    margin-top: -48px;
+  }
+
+  .cta {
+    grid-column: 6 / -1;
+  }
+}
+
+@media (max-width: 48rem) {
+  .section {
+    --showcase-grid-columns: 4;
+    --showcase-grid-gap: var(--space-3);
+    --showcase-grid-inset: var(--space-3);
+    --showcase-grid-line: rgba(20, 25, 35, 0.025);
+
+    padding: var(--space-7) var(--space-3);
+  }
+
+  .composition {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: var(--space-4) var(--space-3);
+  }
+
+  .title,
+  .meta,
+  .media,
+  .description,
+  .cta {
+    grid-column: 1 / -1;
+    grid-row: auto;
+  }
+
+  .title {
+    top: auto;
+    justify-self: stretch;
+    padding: 0;
+    font-size: clamp(44px, 15vw, 64px);
+    line-height: 0.86;
+  }
+
+  .meta {
+    left: auto;
+    justify-self: stretch;
+    max-width: none;
+    margin-top: calc(-1 * var(--space-2));
+    padding: 0;
+  }
+
+  .media {
+    width: 100%;
+    max-width: none;
+    margin-top: var(--space-3);
+    justify-self: stretch;
+  }
+
+  .image {
+    box-shadow:
+      0 24px 56px rgba(20, 25, 35, 0.08),
+      0 6px 18px rgba(20, 25, 35, 0.055);
+  }
+
+  .description {
+    max-width: 40ch;
+    margin-top: 0;
+    padding: 0;
+  }
+
+  .textImageLayer {
+    display: none;
+  }
+
+  .cta {
+    width: fit-content;
+    margin-top: var(--space-1);
+  }
+}

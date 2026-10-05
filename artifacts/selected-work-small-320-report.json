@@ -1,0 +1,1682 @@
+{
+  "mode": "small",
+  "width": 320,
+  "height": 740,
+  "reports": [
+    {
+      "stage": "entry",
+      "scrollY": 3782,
+      "overflow": 0,
+      "previous": {
+        "x": 0,
+        "y": -3108,
+        "width": 320,
+        "height": 3330,
+        "bottom": 222
+      },
+      "section": {
+        "x": 0,
+        "y": 222,
+        "width": 320,
+        "height": 1990.640625,
+        "bottom": 2212.640625
+      },
+      "next": {
+        "x": 0,
+        "y": 2212.640625,
+        "width": 320,
+        "height": 2019.0625,
+        "bottom": 4231.703125
+      },
+      "pins": 0,
+      "chapters": [
+        {
+          "rect": {
+            "x": 16,
+            "y": 487,
+            "width": 288,
+            "height": 548.546875,
+            "bottom": 1035.546875
+          },
+          "visual": {
+            "x": 16,
+            "y": 487,
+            "width": 288,
+            "height": 288,
+            "bottom": 775
+          },
+          "clip": "inset(0%)",
+          "links": [
+            {
+              "href": "/projects/project-one",
+              "rect": {
+                "x": 16,
+                "y": 487,
+                "width": 288,
+                "height": 288,
+                "bottom": 775
+              }
+            },
+            {
+              "href": "/projects/project-one",
+              "rect": {
+                "x": 16,
+                "y": 832.046875,
+                "width": 288,
+                "height": 44,
+                "bottom": 876.046875
+              }
+            },
+            {
+              "href": "/projects/project-one",
+              "rect": {
+                "x": 16,
+                "y": 927.546875,
+                "width": 140.84375,
+                "height": 44,
+                "bottom": 971.546875
+              }
+            }
+          ],
+          "identityOpacity": "1",
+          "imageReady": true
+        },
+        {
+          "rect": {
+            "x": 16,
+            "y": 1035.546875,
+            "width": 288,
+            "height": 548.546875,
+            "bottom": 1584.09375
+          },
+          "visual": {
+            "x": 16,
+            "y": 1051.546875,
+            "width": 288,
+            "height": 288,
+            "bottom": 1339.546875
+          },
+          "clip": "inset(100% 0% 0%)",
+          "links": [
+            {
+              "href": "/projects/project-two",
+              "rect": {
+                "x": 16,
+                "y": 1051.546875,
+                "width": 288,
+                "height": 288,
+                "bottom": 1339.546875
+              }
+            },
+            {
+              "href": "/projects/project-two",
+              "rect": {
+                "x": 16,
+                "y": 1428.9937744140625,
+                "width": 288,
+                "height": 44,
+                "bottom": 1472.9937744140625
+              }
+            },
+            {
+              "href": "/projects/project-two",
+              "rect": {
+                "x": 16,
+                "y": 1476.09375,
+                "width": 140.84375,
+                "height": 44,
+                "bottom": 1520.09375
+              }
+            }
+          ],
+          "identityOpacity": "1",
+          "imageReady": false
+        },
+        {
+          "rect": {
+            "x": 16,
+            "y": 1584.09375,
+            "width": 288,
+            "height": 556.546875,
+            "bottom": 2140.640625
+          },
+          "visual": {
+            "x": 16,
+            "y": 1600.09375,
+            "width": 288,
+            "height": 360,
+            "bottom": 1960.09375
+          },
+          "clip": "inset(100% 0% 0%)",
+          "links": [
+            {
+              "href": "/projects/project-three",
+              "rect": {
+                "x": 16,
+                "y": 1600.09375,
+                "width": 288,
+                "height": 360,
+                "bottom": 1960.09375
+              }
+            },
+            {
+              "href": "/projects/project-three",
+              "rect": {
+                "x": 16,
+                "y": 2049.54052734375,
+                "width": 288,
+                "height": 44,
+                "bottom": 2093.54052734375
+              }
+            },
+            {
+              "href": "/projects/project-three",
+              "rect": {
+                "x": 16,
+                "y": 2096.640625,
+                "width": 140.84375,
+                "height": 44,
+                "bottom": 2140.640625
+              }
+            }
+          ],
+          "identityOpacity": "1",
+          "imageReady": false
+        }
+      ],
+      "progress": "01"
+    },
+    {
+      "stage": "project-1",
+      "scrollY": 4189,
+      "overflow": 0,
+      "previous": {
+        "x": 0,
+        "y": -3515,
+        "width": 320,
+        "height": 3330,
+        "bottom": -185
+      },
+      "section": {
+        "x": 0,
+        "y": -185,
+        "width": 320,
+        "height": 1990.640625,
+        "bottom": 1805.640625
+      },
+      "next": {
+        "x": 0,
+        "y": 1805.640625,
+        "width": 320,
+        "height": 2019.0625,
+        "bottom": 3824.703125
+      },
+      "pins": 0,
+      "chapters": [
+        {
+          "rect": {
+            "x": 16,
+            "y": 80,
+            "width": 288,
+            "height": 548.546875,
+            "bottom": 628.546875
+          },
+          "visual": {
+            "x": 16,
+            "y": 80,
+            "width": 288,
+            "height": 288,
+            "bottom": 368
+          },
+          "clip": "inset(0%)",
+          "links": [
+            {
+              "href": "/projects/project-one",
+              "rect": {
+                "x": 16,
+                "y": 80,
+                "width": 288,
+                "height": 288,
+                "bottom": 368
+              }
+            },
+            {
+              "href": "/projects/project-one",
+              "rect": {
+                "x": 16,
+                "y": 425.046875,
+                "width": 288,
+                "height": 44,
+                "bottom": 469.046875
+              }
+            },
+            {
+              "href": "/projects/project-one",
+              "rect": {
+                "x": 16,
+                "y": 520.546875,
+                "width": 140.84375,
+                "height": 44,
+                "bottom": 564.546875
+              }
+            }
+          ],
+          "identityOpacity": "1",
+          "imageReady": true
+        },
+        {
+          "rect": {
+            "x": 16,
+            "y": 628.546875,
+            "width": 288,
+            "height": 548.546875,
+            "bottom": 1177.09375
+          },
+          "visual": {
+            "x": 16,
+            "y": 628.546875,
+            "width": 288,
+            "height": 288,
+            "bottom": 916.546875
+          },
+          "clip": "inset(0%)",
+          "links": [
+            {
+              "href": "/projects/project-two",
+              "rect": {
+                "x": 16,
+                "y": 628.546875,
+                "width": 288,
+                "height": 288,
+                "bottom": 916.546875
+              }
+            },
+            {
+              "href": "/projects/project-two",
+              "rect": {
+                "x": 16,
+                "y": 973.59375,
+                "width": 288,
+                "height": 44,
+                "bottom": 1017.59375
+              }
+            },
+            {
+              "href": "/projects/project-two",
+              "rect": {
+                "x": 16,
+                "y": 1069.09375,
+                "width": 140.84375,
+                "height": 44,
+                "bottom": 1113.09375
+              }
+            }
+          ],
+          "identityOpacity": "1",
+          "imageReady": true
+        },
+        {
+          "rect": {
+            "x": 16,
+            "y": 1177.09375,
+            "width": 288,
+            "height": 556.546875,
+            "bottom": 1733.640625
+          },
+          "visual": {
+            "x": 16,
+            "y": 1193.09375,
+            "width": 288,
+            "height": 360,
+            "bottom": 1553.09375
+          },
+          "clip": "inset(100% 0% 0%)",
+          "links": [
+            {
+              "href": "/projects/project-three",
+              "rect": {
+                "x": 16,
+                "y": 1193.09375,
+                "width": 288,
+                "height": 360,
+                "bottom": 1553.09375
+              }
+            },
+            {
+              "href": "/projects/project-three",
+              "rect": {
+                "x": 16,
+                "y": 1642.5406494140625,
+                "width": 288,
+                "height": 44,
+                "bottom": 1686.5406494140625
+              }
+            },
+            {
+              "href": "/projects/project-three",
+              "rect": {
+                "x": 16,
+                "y": 1689.640625,
+                "width": 140.84375,
+                "height": 44,
+                "bottom": 1733.640625
+              }
+            }
+          ],
+          "identityOpacity": "1",
+          "imageReady": false
+        }
+      ],
+      "progress": "01"
+    },
+    {
+      "stage": "project-2",
+      "scrollY": 4738,
+      "overflow": 0,
+      "previous": {
+        "x": 0,
+        "y": -4064,
+        "width": 320,
+        "height": 3330,
+        "bottom": -734
+      },
+      "section": {
+        "x": 0,
+        "y": -734,
+        "width": 320,
+        "height": 1990.640625,
+        "bottom": 1256.640625
+      },
+      "next": {
+        "x": 0,
+        "y": 1256.640625,
+        "width": 320,
+        "height": 2019.0625,
+        "bottom": 3275.703125
+      },
+      "pins": 0,
+      "chapters": [
+        {
+          "rect": {
+            "x": 16,
+            "y": -469,
+            "width": 288,
+            "height": 548.546875,
+            "bottom": 79.546875
+          },
+          "visual": {
+            "x": 16,
+            "y": -469,
+            "width": 288,
+            "height": 288,
+            "bottom": -181
+          },
+          "clip": "inset(0%)",
+          "links": [
+            {
+              "href": "/projects/project-one",
+              "rect": {
+                "x": 16,
+                "y": -469,
+                "width": 288,
+                "height": 288,
+                "bottom": -181
+              }
+            },
+            {
+              "href": "/projects/project-one",
+              "rect": {
+                "x": 16,
+                "y": -123.953125,
+                "width": 288,
+                "height": 44,
+                "bottom": -79.953125
+              }
+            },
+            {
+              "href": "/projects/project-one",
+              "rect": {
+                "x": 16,
+                "y": -28.453125,
+                "width": 140.84375,
+                "height": 44,
+                "bottom": 15.546875
+              }
+            }
+          ],
+          "identityOpacity": "1",
+          "imageReady": true
+        },
+        {
+          "rect": {
+            "x": 16,
+            "y": 79.546875,
+            "width": 288,
+            "height": 548.546875,
+            "bottom": 628.09375
+          },
+          "visual": {
+            "x": 16,
+            "y": 79.546875,
+            "width": 288,
+            "height": 288,
+            "bottom": 367.546875
+          },
+          "clip": "inset(0%)",
+          "links": [
+            {
+              "href": "/projects/project-two",
+              "rect": {
+                "x": 16,
+                "y": 79.546875,
+                "width": 288,
+                "height": 288,
+                "bottom": 367.546875
+              }
+            },
+            {
+              "href": "/projects/project-two",
+              "rect": {
+                "x": 16,
+                "y": 424.59375,
+                "width": 288,
+                "height": 44,
+                "bottom": 468.59375
+              }
+            },
+            {
+              "href": "/projects/project-two",
+              "rect": {
+                "x": 16,
+                "y": 520.09375,
+                "width": 140.84375,
+                "height": 44,
+                "bottom": 564.09375
+              }
+            }
+          ],
+          "identityOpacity": "1",
+          "imageReady": true
+        },
+        {
+          "rect": {
+            "x": 16,
+            "y": 628.09375,
+            "width": 288,
+            "height": 556.546875,
+            "bottom": 1184.640625
+          },
+          "visual": {
+            "x": 16,
+            "y": 628.09375,
+            "width": 288,
+            "height": 360,
+            "bottom": 988.09375
+          },
+          "clip": "inset(0%)",
+          "links": [
+            {
+              "href": "/projects/project-three",
+              "rect": {
+                "x": 16,
+                "y": 628.09375,
+                "width": 288,
+                "height": 360,
+                "bottom": 988.09375
+              }
+            },
+            {
+              "href": "/projects/project-three",
+              "rect": {
+                "x": 16,
+                "y": 1045.140625,
+                "width": 288,
+                "height": 44,
+                "bottom": 1089.140625
+              }
+            },
+            {
+              "href": "/projects/project-three",
+              "rect": {
+                "x": 16,
+                "y": 1140.640625,
+                "width": 140.84375,
+                "height": 44,
+                "bottom": 1184.640625
+              }
+            }
+          ],
+          "identityOpacity": "1",
+          "imageReady": true
+        }
+      ],
+      "progress": "02"
+    },
+    {
+      "stage": "project-3",
+      "scrollY": 5286,
+      "overflow": 0,
+      "previous": {
+        "x": 0,
+        "y": -4612,
+        "width": 320,
+        "height": 3330,
+        "bottom": -1282
+      },
+      "section": {
+        "x": 0,
+        "y": -1282,
+        "width": 320,
+        "height": 1990.640625,
+        "bottom": 708.640625
+      },
+      "next": {
+        "x": 0,
+        "y": 708.640625,
+        "width": 320,
+        "height": 2019.0625,
+        "bottom": 2727.703125
+      },
+      "pins": 0,
+      "chapters": [
+        {
+          "rect": {
+            "x": 16,
+            "y": -1017,
+            "width": 288,
+            "height": 548.546875,
+            "bottom": -468.453125
+          },
+          "visual": {
+            "x": 16,
+            "y": -1017,
+            "width": 288,
+            "height": 288,
+            "bottom": -729
+          },
+          "clip": "inset(0%)",
+          "links": [
+            {
+              "href": "/projects/project-one",
+              "rect": {
+                "x": 16,
+                "y": -1017,
+                "width": 288,
+                "height": 288,
+                "bottom": -729
+              }
+            },
+            {
+              "href": "/projects/project-one",
+              "rect": {
+                "x": 16,
+                "y": -671.953125,
+                "width": 288,
+                "height": 44,
+                "bottom": -627.953125
+              }
+            },
+            {
+              "href": "/projects/project-one",
+              "rect": {
+                "x": 16,
+                "y": -576.453125,
+                "width": 140.84375,
+                "height": 44,
+                "bottom": -532.453125
+              }
+            }
+          ],
+          "identityOpacity": "1",
+          "imageReady": true
+        },
+        {
+          "rect": {
+            "x": 16,
+            "y": -468.453125,
+            "width": 288,
+            "height": 548.546875,
+            "bottom": 80.09375
+          },
+          "visual": {
+            "x": 16,
+            "y": -468.453125,
+            "width": 288,
+            "height": 288,
+            "bottom": -180.453125
+          },
+          "clip": "inset(0%)",
+          "links": [
+            {
+              "href": "/projects/project-two",
+              "rect": {
+                "x": 16,
+                "y": -468.453125,
+                "width": 288,
+                "height": 288,
+                "bottom": -180.453125
+              }
+            },
+            {
+              "href": "/projects/project-two",
+              "rect": {
+                "x": 16,
+                "y": -123.40625,
+                "width": 288,
+                "height": 44,
+                "bottom": -79.40625
+              }
+            },
+            {
+              "href": "/projects/project-two",
+              "rect": {
+                "x": 16,
+                "y": -27.90625,
+                "width": 140.84375,
+                "height": 44,
+                "bottom": 16.09375
+              }
+            }
+          ],
+          "identityOpacity": "1",
+          "imageReady": true
+        },
+        {
+          "rect": {
+            "x": 16,
+            "y": 80.09375,
+            "width": 288,
+            "height": 556.546875,
+            "bottom": 636.640625
+          },
+          "visual": {
+            "x": 16,
+            "y": 80.09375,
+            "width": 288,
+            "height": 360,
+            "bottom": 440.09375
+          },
+          "clip": "inset(0%)",
+          "links": [
+            {
+              "href": "/projects/project-three",
+              "rect": {
+                "x": 16,
+                "y": 80.09375,
+                "width": 288,
+                "height": 360,
+                "bottom": 440.09375
+              }
+            },
+            {
+              "href": "/projects/project-three",
+              "rect": {
+                "x": 16,
+                "y": 497.140625,
+                "width": 288,
+                "height": 44,
+                "bottom": 541.140625
+              }
+            },
+            {
+              "href": "/projects/project-three",
+              "rect": {
+                "x": 16,
+                "y": 592.640625,
+                "width": 140.84375,
+                "height": 44,
+                "bottom": 636.640625
+              }
+            }
+          ],
+          "identityOpacity": "1",
+          "imageReady": true
+        }
+      ],
+      "progress": "03"
+    },
+    {
+      "stage": "exit",
+      "scrollY": 5625,
+      "overflow": 0,
+      "previous": {
+        "x": 0,
+        "y": -4951,
+        "width": 320,
+        "height": 3330,
+        "bottom": -1621
+      },
+      "section": {
+        "x": 0,
+        "y": -1621,
+        "width": 320,
+        "height": 1990.640625,
+        "bottom": 369.640625
+      },
+      "next": {
+        "x": 0,
+        "y": 369.640625,
+        "width": 320,
+        "height": 2019.0625,
+        "bottom": 2388.703125
+      },
+      "pins": 0,
+      "chapters": [
+        {
+          "rect": {
+            "x": 16,
+            "y": -1356,
+            "width": 288,
+            "height": 548.546875,
+            "bottom": -807.453125
+          },
+          "visual": {
+            "x": 16,
+            "y": -1356,
+            "width": 288,
+            "height": 288,
+            "bottom": -1068
+          },
+          "clip": "inset(0%)",
+          "links": [
+            {
+              "href": "/projects/project-one",
+              "rect": {
+                "x": 16,
+                "y": -1356,
+                "width": 288,
+                "height": 288,
+                "bottom": -1068
+              }
+            },
+            {
+              "href": "/projects/project-one",
+              "rect": {
+                "x": 16,
+                "y": -1010.953125,
+                "width": 288,
+                "height": 44,
+                "bottom": -966.953125
+              }
+            },
+            {
+              "href": "/projects/project-one",
+              "rect": {
+                "x": 16,
+                "y": -915.453125,
+                "width": 140.84375,
+                "height": 44,
+                "bottom": -871.453125
+              }
+            }
+          ],
+          "identityOpacity": "1",
+          "imageReady": true
+        },
+        {
+          "rect": {
+            "x": 16,
+            "y": -807.453125,
+            "width": 288,
+            "height": 548.546875,
+            "bottom": -258.90625
+          },
+          "visual": {
+            "x": 16,
+            "y": -807.453125,
+            "width": 288,
+            "height": 288,
+            "bottom": -519.453125
+          },
+          "clip": "inset(0%)",
+          "links": [
+            {
+              "href": "/projects/project-two",
+              "rect": {
+                "x": 16,
+                "y": -807.453125,
+                "width": 288,
+                "height": 288,
+                "bottom": -519.453125
+              }
+            },
+            {
+              "href": "/projects/project-two",
+              "rect": {
+                "x": 16,
+                "y": -462.40625,
+                "width": 288,
+                "height": 44,
+                "bottom": -418.40625
+              }
+            },
+            {
+              "href": "/projects/project-two",
+              "rect": {
+                "x": 16,
+                "y": -366.90625,
+                "width": 140.84375,
+                "height": 44,
+                "bottom": -322.90625
+              }
+            }
+          ],
+          "identityOpacity": "1",
+          "imageReady": true
+        },
+        {
+          "rect": {
+            "x": 16,
+            "y": -258.90625,
+            "width": 288,
+            "height": 556.546875,
+            "bottom": 297.640625
+          },
+          "visual": {
+            "x": 16,
+            "y": -258.90625,
+            "width": 288,
+            "height": 360,
+            "bottom": 101.09375
+          },
+          "clip": "inset(0%)",
+          "links": [
+            {
+              "href": "/projects/project-three",
+              "rect": {
+                "x": 16,
+                "y": -258.90625,
+                "width": 288,
+                "height": 360,
+                "bottom": 101.09375
+              }
+            },
+            {
+              "href": "/projects/project-three",
+              "rect": {
+                "x": 16,
+                "y": 158.140625,
+                "width": 288,
+                "height": 44,
+                "bottom": 202.140625
+              }
+            },
+            {
+              "href": "/projects/project-three",
+              "rect": {
+                "x": 16,
+                "y": 253.640625,
+                "width": 140.84375,
+                "height": 44,
+                "bottom": 297.640625
+              }
+            }
+          ],
+          "identityOpacity": "1",
+          "imageReady": true
+        }
+      ],
+      "progress": "03"
+    },
+    {
+      "stage": "reverse-last",
+      "scrollY": 5188,
+      "overflow": 0,
+      "previous": {
+        "x": 0,
+        "y": -4514,
+        "width": 320,
+        "height": 3330,
+        "bottom": -1184
+      },
+      "section": {
+        "x": 0,
+        "y": -1184,
+        "width": 320,
+        "height": 1990.640625,
+        "bottom": 806.640625
+      },
+      "next": {
+        "x": 0,
+        "y": 806.640625,
+        "width": 320,
+        "height": 2019.0625,
+        "bottom": 2825.703125
+      },
+      "pins": 0,
+      "chapters": [
+        {
+          "rect": {
+            "x": 16,
+            "y": -919,
+            "width": 288,
+            "height": 548.546875,
+            "bottom": -370.453125
+          },
+          "visual": {
+            "x": 16,
+            "y": -919,
+            "width": 288,
+            "height": 288,
+            "bottom": -631
+          },
+          "clip": "inset(0%)",
+          "links": [
+            {
+              "href": "/projects/project-one",
+              "rect": {
+                "x": 16,
+                "y": -919,
+                "width": 288,
+                "height": 288,
+                "bottom": -631
+              }
+            },
+            {
+              "href": "/projects/project-one",
+              "rect": {
+                "x": 16,
+                "y": -573.953125,
+                "width": 288,
+                "height": 44,
+                "bottom": -529.953125
+              }
+            },
+            {
+              "href": "/projects/project-one",
+              "rect": {
+                "x": 16,
+                "y": -478.453125,
+                "width": 140.84375,
+                "height": 44,
+                "bottom": -434.453125
+              }
+            }
+          ],
+          "identityOpacity": "1",
+          "imageReady": true
+        },
+        {
+          "rect": {
+            "x": 16,
+            "y": -370.453125,
+            "width": 288,
+            "height": 548.546875,
+            "bottom": 178.09375
+          },
+          "visual": {
+            "x": 16,
+            "y": -370.453125,
+            "width": 288,
+            "height": 288,
+            "bottom": -82.453125
+          },
+          "clip": "inset(0%)",
+          "links": [
+            {
+              "href": "/projects/project-two",
+              "rect": {
+                "x": 16,
+                "y": -370.453125,
+                "width": 288,
+                "height": 288,
+                "bottom": -82.453125
+              }
+            },
+            {
+              "href": "/projects/project-two",
+              "rect": {
+                "x": 16,
+                "y": -25.40625,
+                "width": 288,
+                "height": 44,
+                "bottom": 18.59375
+              }
+            },
+            {
+              "href": "/projects/project-two",
+              "rect": {
+                "x": 16,
+                "y": 70.09375,
+                "width": 140.84375,
+                "height": 44,
+                "bottom": 114.09375
+              }
+            }
+          ],
+          "identityOpacity": "1",
+          "imageReady": true
+        },
+        {
+          "rect": {
+            "x": 16,
+            "y": 178.09375,
+            "width": 288,
+            "height": 556.546875,
+            "bottom": 734.640625
+          },
+          "visual": {
+            "x": 16,
+            "y": 178.09375,
+            "width": 288,
+            "height": 360,
+            "bottom": 538.09375
+          },
+          "clip": "inset(0%)",
+          "links": [
+            {
+              "href": "/projects/project-three",
+              "rect": {
+                "x": 16,
+                "y": 178.09375,
+                "width": 288,
+                "height": 360,
+                "bottom": 538.09375
+              }
+            },
+            {
+              "href": "/projects/project-three",
+              "rect": {
+                "x": 16,
+                "y": 595.140625,
+                "width": 288,
+                "height": 44,
+                "bottom": 639.140625
+              }
+            },
+            {
+              "href": "/projects/project-three",
+              "rect": {
+                "x": 16,
+                "y": 690.640625,
+                "width": 140.84375,
+                "height": 44,
+                "bottom": 734.640625
+              }
+            }
+          ],
+          "identityOpacity": "1",
+          "imageReady": true
+        }
+      ],
+      "progress": "03"
+    },
+    {
+      "stage": "fast-reverse",
+      "scrollY": 4204,
+      "overflow": 0,
+      "previous": {
+        "x": 0,
+        "y": -3530,
+        "width": 320,
+        "height": 3330,
+        "bottom": -200
+      },
+      "section": {
+        "x": 0,
+        "y": -200,
+        "width": 320,
+        "height": 1990.640625,
+        "bottom": 1790.640625
+      },
+      "next": {
+        "x": 0,
+        "y": 1790.640625,
+        "width": 320,
+        "height": 2019.0625,
+        "bottom": 3809.703125
+      },
+      "pins": 0,
+      "chapters": [
+        {
+          "rect": {
+            "x": 16,
+            "y": 65,
+            "width": 288,
+            "height": 548.546875,
+            "bottom": 613.546875
+          },
+          "visual": {
+            "x": 16,
+            "y": 65,
+            "width": 288,
+            "height": 288,
+            "bottom": 353
+          },
+          "clip": "inset(0%)",
+          "links": [
+            {
+              "href": "/projects/project-one",
+              "rect": {
+                "x": 16,
+                "y": 65,
+                "width": 288,
+                "height": 288,
+                "bottom": 353
+              }
+            },
+            {
+              "href": "/projects/project-one",
+              "rect": {
+                "x": 16,
+                "y": 410.046875,
+                "width": 288,
+                "height": 44,
+                "bottom": 454.046875
+              }
+            },
+            {
+              "href": "/projects/project-one",
+              "rect": {
+                "x": 16,
+                "y": 505.546875,
+                "width": 140.84375,
+                "height": 44,
+                "bottom": 549.546875
+              }
+            }
+          ],
+          "identityOpacity": "1",
+          "imageReady": true
+        },
+        {
+          "rect": {
+            "x": 16,
+            "y": 613.546875,
+            "width": 288,
+            "height": 548.546875,
+            "bottom": 1162.09375
+          },
+          "visual": {
+            "x": 16,
+            "y": 613.546875,
+            "width": 288,
+            "height": 288,
+            "bottom": 901.546875
+          },
+          "clip": "inset(0%)",
+          "links": [
+            {
+              "href": "/projects/project-two",
+              "rect": {
+                "x": 16,
+                "y": 613.546875,
+                "width": 288,
+                "height": 288,
+                "bottom": 901.546875
+              }
+            },
+            {
+              "href": "/projects/project-two",
+              "rect": {
+                "x": 16,
+                "y": 958.59375,
+                "width": 288,
+                "height": 44,
+                "bottom": 1002.59375
+              }
+            },
+            {
+              "href": "/projects/project-two",
+              "rect": {
+                "x": 16,
+                "y": 1054.09375,
+                "width": 140.84375,
+                "height": 44,
+                "bottom": 1098.09375
+              }
+            }
+          ],
+          "identityOpacity": "1",
+          "imageReady": true
+        },
+        {
+          "rect": {
+            "x": 16,
+            "y": 1162.09375,
+            "width": 288,
+            "height": 556.546875,
+            "bottom": 1718.640625
+          },
+          "visual": {
+            "x": 16,
+            "y": 1162.09375,
+            "width": 288,
+            "height": 360,
+            "bottom": 1522.09375
+          },
+          "clip": "inset(0%)",
+          "links": [
+            {
+              "href": "/projects/project-three",
+              "rect": {
+                "x": 16,
+                "y": 1162.09375,
+                "width": 288,
+                "height": 360,
+                "bottom": 1522.09375
+              }
+            },
+            {
+              "href": "/projects/project-three",
+              "rect": {
+                "x": 16,
+                "y": 1579.140625,
+                "width": 288,
+                "height": 44,
+                "bottom": 1623.140625
+              }
+            },
+            {
+              "href": "/projects/project-three",
+              "rect": {
+                "x": 16,
+                "y": 1674.640625,
+                "width": 140.84375,
+                "height": 44,
+                "bottom": 1718.640625
+              }
+            }
+          ],
+          "identityOpacity": "1",
+          "imageReady": true
+        }
+      ],
+      "progress": "01"
+    },
+    {
+      "stage": "resize-mobile",
+      "scrollY": 4308,
+      "overflow": 0,
+      "previous": {
+        "x": 0,
+        "y": -3530,
+        "width": 390,
+        "height": 3798,
+        "bottom": 268
+      },
+      "section": {
+        "x": 0,
+        "y": 268,
+        "width": 390,
+        "height": 2218.140625,
+        "bottom": 2486.140625
+      },
+      "next": {
+        "x": 0,
+        "y": 2486.140625,
+        "width": 390,
+        "height": 1931.78125,
+        "bottom": 4417.921875
+      },
+      "pins": 0,
+      "chapters": [
+        {
+          "rect": {
+            "x": 16,
+            "y": 533,
+            "width": 358,
+            "height": 618.546875,
+            "bottom": 1151.546875
+          },
+          "visual": {
+            "x": 16,
+            "y": 533,
+            "width": 358,
+            "height": 358,
+            "bottom": 891
+          },
+          "clip": "inset(0%)",
+          "links": [
+            {
+              "href": "/projects/project-one",
+              "rect": {
+                "x": 16,
+                "y": 533,
+                "width": 358,
+                "height": 358,
+                "bottom": 891
+              }
+            },
+            {
+              "href": "/projects/project-one",
+              "rect": {
+                "x": 16,
+                "y": 948.046875,
+                "width": 358,
+                "height": 44,
+                "bottom": 992.046875
+              }
+            },
+            {
+              "href": "/projects/project-one",
+              "rect": {
+                "x": 16,
+                "y": 1043.546875,
+                "width": 140.84375,
+                "height": 44,
+                "bottom": 1087.546875
+              }
+            }
+          ],
+          "identityOpacity": "1",
+          "imageReady": true
+        },
+        {
+          "rect": {
+            "x": 16,
+            "y": 1151.546875,
+            "width": 358,
+            "height": 618.546875,
+            "bottom": 1770.09375
+          },
+          "visual": {
+            "x": 16,
+            "y": 1151.546875,
+            "width": 358,
+            "height": 358,
+            "bottom": 1509.546875
+          },
+          "clip": "inset(0%)",
+          "links": [
+            {
+              "href": "/projects/project-two",
+              "rect": {
+                "x": 16,
+                "y": 1151.546875,
+                "width": 358,
+                "height": 358,
+                "bottom": 1509.546875
+              }
+            },
+            {
+              "href": "/projects/project-two",
+              "rect": {
+                "x": 16,
+                "y": 1566.59375,
+                "width": 358,
+                "height": 44,
+                "bottom": 1610.59375
+              }
+            },
+            {
+              "href": "/projects/project-two",
+              "rect": {
+                "x": 16,
+                "y": 1662.09375,
+                "width": 140.84375,
+                "height": 44,
+                "bottom": 1706.09375
+              }
+            }
+          ],
+          "identityOpacity": "1",
+          "imageReady": true
+        },
+        {
+          "rect": {
+            "x": 16,
+            "y": 1770.09375,
+            "width": 358,
+            "height": 644.046875,
+            "bottom": 2414.140625
+          },
+          "visual": {
+            "x": 16,
+            "y": 1770.09375,
+            "width": 358,
+            "height": 447.5,
+            "bottom": 2217.59375
+          },
+          "clip": "inset(0%)",
+          "links": [
+            {
+              "href": "/projects/project-three",
+              "rect": {
+                "x": 16,
+                "y": 1770.09375,
+                "width": 358,
+                "height": 447.5,
+                "bottom": 2217.59375
+              }
+            },
+            {
+              "href": "/projects/project-three",
+              "rect": {
+                "x": 16,
+                "y": 2274.640625,
+                "width": 358,
+                "height": 44,
+                "bottom": 2318.640625
+              }
+            },
+            {
+              "href": "/projects/project-three",
+              "rect": {
+                "x": 16,
+                "y": 2370.140625,
+                "width": 140.84375,
+                "height": 44,
+                "bottom": 2414.140625
+              }
+            }
+          ],
+          "identityOpacity": "1",
+          "imageReady": true
+        }
+      ],
+      "progress": "01"
+    },
+    {
+      "stage": "resize-restore",
+      "scrollY": 4133,
+      "overflow": 0,
+      "previous": {
+        "x": 0,
+        "y": -3459,
+        "width": 320,
+        "height": 3330,
+        "bottom": -129
+      },
+      "section": {
+        "x": 0,
+        "y": -129,
+        "width": 320,
+        "height": 1990.640625,
+        "bottom": 1861.640625
+      },
+      "next": {
+        "x": 0,
+        "y": 1861.640625,
+        "width": 320,
+        "height": 2019.0625,
+        "bottom": 3880.703125
+      },
+      "pins": 0,
+      "chapters": [
+        {
+          "rect": {
+            "x": 16,
+            "y": 136,
+            "width": 288,
+            "height": 548.546875,
+            "bottom": 684.546875
+          },
+          "visual": {
+            "x": 16,
+            "y": 136,
+            "width": 288,
+            "height": 288,
+            "bottom": 424
+          },
+          "clip": "inset(0%)",
+          "links": [
+            {
+              "href": "/projects/project-one",
+              "rect": {
+                "x": 16,
+                "y": 136,
+                "width": 288,
+                "height": 288,
+                "bottom": 424
+              }
+            },
+            {
+              "href": "/projects/project-one",
+              "rect": {
+                "x": 16,
+                "y": 481.046875,
+                "width": 288,
+                "height": 44,
+                "bottom": 525.046875
+              }
+            },
+            {
+              "href": "/projects/project-one",
+              "rect": {
+                "x": 16,
+                "y": 576.546875,
+                "width": 140.84375,
+                "height": 44,
+                "bottom": 620.546875
+              }
+            }
+          ],
+          "identityOpacity": "1",
+          "imageReady": true
+        },
+        {
+          "rect": {
+            "x": 16,
+            "y": 684.546875,
+            "width": 288,
+            "height": 548.546875,
+            "bottom": 1233.09375
+          },
+          "visual": {
+            "x": 16,
+            "y": 684.546875,
+            "width": 288,
+            "height": 288,
+            "bottom": 972.546875
+          },
+          "clip": "inset(0%)",
+          "links": [
+            {
+              "href": "/projects/project-two",
+              "rect": {
+                "x": 16,
+                "y": 684.546875,
+                "width": 288,
+                "height": 288,
+                "bottom": 972.546875
+              }
+            },
+            {
+              "href": "/projects/project-two",
+              "rect": {
+                "x": 16,
+                "y": 1029.59375,
+                "width": 288,
+                "height": 44,
+                "bottom": 1073.59375
+              }
+            },
+            {
+              "href": "/projects/project-two",
+              "rect": {
+                "x": 16,
+                "y": 1125.09375,
+                "width": 140.84375,
+                "height": 44,
+                "bottom": 1169.09375
+              }
+            }
+          ],
+          "identityOpacity": "1",
+          "imageReady": true
+        },
+        {
+          "rect": {
+            "x": 16,
+            "y": 1233.09375,
+            "width": 288,
+            "height": 556.546875,
+            "bottom": 1789.640625
+          },
+          "visual": {
+            "x": 16,
+            "y": 1233.09375,
+            "width": 288,
+            "height": 360,
+            "bottom": 1593.09375
+          },
+          "clip": "inset(0%)",
+          "links": [
+            {
+              "href": "/projects/project-three",
+              "rect": {
+                "x": 16,
+                "y": 1233.09375,
+                "width": 288,
+                "height": 360,
+                "bottom": 1593.09375
+              }
+            },
+            {
+              "href": "/projects/project-three",
+              "rect": {
+                "x": 16,
+                "y": 1650.140625,
+                "width": 288,
+                "height": 44,
+                "bottom": 1694.140625
+              }
+            },
+            {
+              "href": "/projects/project-three",
+              "rect": {
+                "x": 16,
+                "y": 1745.640625,
+                "width": 140.84375,
+                "height": 44,
+                "bottom": 1789.640625
+              }
+            }
+          ],
+          "identityOpacity": "1",
+          "imageReady": true
+        }
+      ],
+      "progress": "01"
+    },
+    {
+      "stage": "keyboard-1",
+      "focus": {
+        "href": "/projects/project-one",
+        "outline": "solid",
+        "top": 481.046875,
+        "bottom": 525.046875
+      }
+    },
+    {
+      "stage": "keyboard-2",
+      "focus": {
+        "href": "/projects/project-two",
+        "outline": "solid",
+        "top": 605.59375,
+        "bottom": 649.59375
+      }
+    },
+    {
+      "stage": "keyboard-3",
+      "focus": {
+        "href": "/projects/project-three",
+        "outline": "solid",
+        "top": 606.140625,
+        "bottom": 650.140625
+      }
+    }
+  ],
+  "issues": []
+}

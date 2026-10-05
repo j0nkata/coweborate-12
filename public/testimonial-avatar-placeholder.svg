@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 104 104" role="img" aria-labelledby="title description">
+  <title id="title">Temporary client portrait placeholder</title>
+  <desc id="description">An abstract silhouette used until an approved client photograph is available.</desc>
+  <rect width="104" height="104" fill="#d9d6cd"/>
+  <circle cx="52" cy="39" r="18" fill="#a7a49c"/>
+  <path d="M18 104c2-27 15-41 34-41s32 14 34 41H18Z" fill="#a7a49c"/>
+</svg>
